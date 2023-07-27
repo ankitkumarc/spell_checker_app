@@ -1,24 +1,11 @@
-![cover](assets/cover.png)
-
-<div align="center">
-	<h2>Spell Checker App</h2>
-</div>
-
->[Live Preview](https://rapidapi-example-spell-checker.vercel.app/)
-
 ### ⚡️ Features
 
 - Checks for Spelling errors in content
 - Mobile friendly
 
-## 📖 Guide
-
-[*Read how we build this application*](https://rapidapi.com/guides/build-spell-checker-app)
-
 ### 🛠️ Installation Steps
 
-1. Download the `spell-checker-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/RapidAPI/DevRel-Examples-External/tree/main/spell-checker-app) to download it.
-
+1. Download the `spell-checker-app` directory. 
 2. Unzip the downloaded file and navigate to the working directory.
 
 ```bash
