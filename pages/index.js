@@ -59,7 +59,7 @@ export default function Home() {
       </div>
       <div>
         {spellErr ? (
-          <div className="h-96 w-full flex display-center md:w-full">
+          <div className=" w-full flex display-center md:w-full mb-16">
             <table className="bg-white w-full text-primary border-danger border md:text-sm md:mx-2">
               <tr>
                 <th className="border-danger border text-left px-4 py-4">
