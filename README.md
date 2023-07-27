@@ -6,12 +6,7 @@
 ### 🛠️ Installation Steps
 
 1. Download the `spell-checker-app` directory. 
-2. Unzip the downloaded file and navigate to the working directory.
-
-```bash
-cd RapidAPI\ DevRel-Examples-External\ main\ spell-checker-app/
-```
-
+2. Unzip the downloaded file 
 3. Install dependencies
 
 ```bash
